@@ -612,15 +612,15 @@ nav a[class="btn-contato"]:hover {
   transition: var(--transition); */
   border: none;
   /* cursor: pointer;
-  border-radius: 100%;
-  width: 30px; */
+  border-radius: 100%; */
+  width: 30px; 
 }
 
 .fa-figma {
   background: linear-gradient(120deg, #bc4e9c, #f80759);
   height: 32px;
   width: 32px;
-  border-radius: 40%;
+  border-radius: 30%;
   display: flex;
   align-items: center;
   justify-content: center;
